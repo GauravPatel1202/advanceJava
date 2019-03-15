@@ -3,9 +3,9 @@
 
 # Advanced Java:
 
-1)JDBC (Java Database Connectivity)
-2)Servlet
-3)JSP
+1) JDBC (Java Database Connectivity)
+2) Servlet
+3) JSP
 
 # Popular Frameworks:
 

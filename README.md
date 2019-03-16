@@ -9,11 +9,12 @@
 
 # Popular Frameworks:
 
-1) Spring (MVC, Core, JDBC, ORM, AOP)
-2) Hibernate ORM framework
-3) Struts
-4) JSF
-5) Web Services (SOAP & REST)
+1) SpringBoot
+2) Spring (MVC, Core, JDBC, ORM, AOP)
+3) Hibernate ORM framework
+4) Struts
+5) JSF
+6) Web Services (SOAP & REST)
 
 
 # Design patterns and design questions related to your projects.
